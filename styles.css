@@ -1,0 +1,14 @@
+html {
+  font-size: 30px;
+  font-family: helvetica;
+}
+
+.notgreen{}
+
+.red{color:red;}
+
+.green{color:green;}
+
+.border{border:solid;}
+
+.noborder{border:none;}
